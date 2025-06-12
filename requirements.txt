@@ -1,0 +1,28 @@
+# Numerical & data processing
+numpy==1.24.4
+pandas==2.3.0
+
+# Machine learning & streaming
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+river==0.22.0
+
+# Gradient boosting
+lightgbm==4.3.0
+xgboost==1.7.6
+
+# Deep learning (GPU-enabled)
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+tensorflow==2.15.0
+keras==2.15.0
+
+# Hyperparameter optimization
+optuna==4.3.0
+
+# Model explanation
+shap==0.45.0
+
+# Plotting (used in notebooks/reports)
+matplotlib==3.10.0

@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual-env folders
+env/
+venv/
+.venv/
+
+# IDE configs
+.idea/
+
+# Data files
+*.csv
