@@ -34,7 +34,8 @@ my-fdp-project/
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 
+1. Clone the repository
 git clone https://github.com/JianfengWang-cloud/fdp-streaming.git
 cd fdp-streaming
 
