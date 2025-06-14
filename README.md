@@ -1,8 +1,8 @@
 # Financial Distress Prediction (FDP) Streaming Pipeline
 
-This repository contains all the materials for the thesis project  
+This repository accompanies the thesis  
 **“Financial Distress Prediction in Non-Stationary Data Streams:  
-A Comparative Study of Machine Learning Algorithms on Brazilian Listed Enterprises.”**
+A Comparative Study of Machine-Learning Algorithms on Brazilian Listed Enterprises.”**
 
 ---
 
@@ -30,31 +30,31 @@ my-fdp-project/
 ├── requirements.txt                            # Pinned Python dependencies
 ├── .gitignore                                  # Ignore rules for Git
 └── README.md                                   # This file
+```
 
----
 
-## 🚀 Getting Started
+🚀 Getting Started
+Prerequisite: Python 3.9 or newer (use conda / venv for isolation).
 
-### 
-1. Clone the repository
+1 · Clone the repository
 git clone https://github.com/JianfengWang-cloud/fdp-streaming.git
 cd fdp-streaming
 
-2. Install dependencies
-It’s best to use a virtual environment (conda, venv, etc.).
+2 · Install dependencies
 pip install -r requirements.txt
 
-3. Prepare the data
-Ensure the CVM CSV is in the data/ folder:
+3 · Prepare the data
+Make sure the CVM CSV is present:
 data/cvm_indicators_dataset_2011-2021.csv
 
-4. Launch Jupyter
+4 · Launch Jupyter Lab
 jupyter lab
-Open and run the notebooks in order:
+Run the notebooks in sequence:
 
 01_logistic_regression.ipynb
 
 02_xgboost.ipynb
 
 03_lightgbm.ipynb
-…
+
+…..
