@@ -31,9 +31,12 @@ my-fdp-project/
 ├── .gitignore                                  # Ignore rules for Git
 └── README.md                                   # This file
 ```
+---
 
 
-🚀 Getting Started
+
+
+## 🚀 Getting Started
 Prerequisite: Python 3.9 or newer (use conda / venv for isolation).
 
 1 · Clone the repository
